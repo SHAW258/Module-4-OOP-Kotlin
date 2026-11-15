@@ -1,0 +1,7 @@
+Command: java -jar Q07_PersonTeacherStudent.jar
+
+Output:
+Name: Mr. Rao, Age: 40
+Subject: Kotlin
+Name: Maya, Age: 19
+Roll number: 7

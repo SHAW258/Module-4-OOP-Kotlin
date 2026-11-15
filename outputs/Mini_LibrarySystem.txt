@@ -1,0 +1,9 @@
+Command: java -jar Mini_LibrarySystem.jar
+
+Output:
+Books in the library:
+1. The Hobbit by J.R.R. Tolkien
+2. 1984 by George Orwell
+Removed 1984: true
+Books after removal:
+1. The Hobbit by J.R.R. Tolkien

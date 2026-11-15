@@ -1,0 +1,6 @@
+Command: java -jar Q05_EmployeeSalary.jar
+
+Output:
+Valid salary accepted: true
+Invalid salary accepted: false
+Employee salary: 35000.0

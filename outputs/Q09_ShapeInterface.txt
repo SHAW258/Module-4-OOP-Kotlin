@@ -1,0 +1,5 @@
+Command: java -jar Q09_ShapeInterface.jar
+
+Output:
+Circle area: 28.274333882308138
+Rectangle area: 20.0

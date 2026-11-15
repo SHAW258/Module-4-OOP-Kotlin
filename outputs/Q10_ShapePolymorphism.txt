@@ -1,0 +1,5 @@
+Command: java -jar Q10_ShapePolymorphism.jar
+
+Output:
+Area: 28.274333882308138
+Area: 20.0

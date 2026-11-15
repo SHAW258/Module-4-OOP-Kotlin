@@ -1,0 +1,6 @@
+Command: java -jar Q01_Car.jar
+
+Output:
+Brand: Toyota, Model: Corolla, Price: 22000.0
+Brand: Honda, Model: Civic, Price: 25000.0
+Brand: Tesla, Model: Model 3, Price: 40000.0

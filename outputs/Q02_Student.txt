@@ -1,0 +1,4 @@
+Command: java -jar Q02_Student.jar
+
+Output:
+My name is Anita and my roll number is 12.

@@ -1,0 +1,6 @@
+Command: java -jar Q06_AnimalDog.jar
+
+Output:
+The animal is eating.
+The animal is sleeping.
+The dog is barking.

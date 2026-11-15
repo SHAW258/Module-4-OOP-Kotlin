@@ -1,0 +1,5 @@
+Command: java -jar Q08_PlayableGames.jar
+
+Output:
+Playing cricket.
+Playing football.

@@ -1,0 +1,4 @@
+Command: java -jar Q03_RectangleArea.jar
+
+Output:
+Rectangle area: 50.0
